@@ -1,7 +1,5 @@
 '''hacer un programa que lea una cadena y que muestre en pantalla cuantos numeros tiene, cuantas
 mayusculas, cuantas minusculas y cuantos espacios'''
-
-
 def inicio():
     numeros = "0123456789"
     min = 0

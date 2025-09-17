@@ -1,6 +1,6 @@
 
 #print('escribe un numero')
-a = int(input('Escribe un numero'))
+a = int(input('Escribe un numero\n'))
 print (a**2)
 print (a**(1/2))
 # Operadores

@@ -1,8 +1,4 @@
-
-
 #hacer un programa que lea 10 numeros y almacene en un arreglo
-
-
 a = [0,0,0,0,0,0,0,0,0,0]
 
 for i in range(0,10): 

@@ -1,5 +1,4 @@
 #hacer un programa que lea 10 numeros y almacene en una lista
-
 a = []
 s = 0
 n = 0

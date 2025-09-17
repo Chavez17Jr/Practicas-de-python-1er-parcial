@@ -1,9 +1,6 @@
-
-
 '''hacer un programa que lea 10 datos, si el dato es un numero se almecenara en unarreglo
 si es un caracter o caracteres se metera a una lista, cuando finalize el programa nos mostrara
-cuantos elementos hay en cada estructura'''
- 
+cuantos elementos hay en cada estructura''' 
 numeros = 0
 a = []
 b = []
